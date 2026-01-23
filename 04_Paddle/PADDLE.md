@@ -28,9 +28,10 @@ Name it Blueprints.
 
 3. Select the Cube component, then in Details:
     - **Scale:** X=0.5, Y=3, Z=2
-4. Set **Collision Presets** to "BlockAll"
+4. Set **Collision Presets** to "OverlapAll"
 
     <img src="img_5.png" width="50%">
+
 
 **Add a Variable for Paddle Speed:**
 1. In the **My Blueprint** panel (left side), find **Variables** section

@@ -14,7 +14,7 @@ Then we'll look at how we can extend the concepts of the simple game into someth
 > [!IMPORTANT]
 > This tutorial was completed with and will only address issues using:
 >* Windows 11
->* Unreal Engine 5.7.1
+>* Unreal Engine 5.7.2
 
 ### Contents
 ***

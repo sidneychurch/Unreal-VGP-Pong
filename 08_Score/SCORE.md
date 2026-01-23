@@ -1,4 +1,4 @@
-﻿## 7. Creating the Score System
+﻿# Creating the Score System
 
 ### Create Game Mode Blueprint
 1. **Create** → **Blueprint Class** → **Game Mode Base**
