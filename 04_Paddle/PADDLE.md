@@ -71,4 +71,4 @@ If you select the Camera Actor in the Outliner, the camera preview should look l
 
 
 ---
->Prev: [Creating the Game Area]](/03_Area/AREA.md) |  Next: [Player Input](/05_Input/INPUT.md)
+>Prev: [Creating the Game Area](/03_Area/AREA.md) |  Next: [Player Input](/05_Input/INPUT.md)

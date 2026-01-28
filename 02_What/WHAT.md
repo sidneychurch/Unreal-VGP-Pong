@@ -29,4 +29,4 @@ Things we want to consider:
 Let's start by setting up the play area.
 
 ---
->Prev: [Project Setup](/01_Setup/SETUP.md)  |  Next: [Creating the Game Area]](/03_Area/AREA.md)
+>Prev: [Project Setup](/01_Setup/SETUP.md)  |  Next: [Creating the Game Area](/03_Area/AREA.md)

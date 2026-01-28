@@ -32,6 +32,7 @@ In order to do the same with the walls, we need to turn them into a class (BlueP
 <img src="img_2.png" width="40%">
 
 3. Do the same for BtmWall
+4. You'll need to reset the scale (1,1,1) on the walls if you want them to look as they did before.
 
 
 ## Add Collision Logic for the Walls
@@ -40,18 +41,6 @@ The logic will be the same as the paddles, but -1 in Y rather than X.
 
 ![img.png](img.png)
 
-
-
-
-
-### Ball Out of Bounds Detection
-1. In BP_Ball Event Graph
-2. From **Event Tick**, add a **Branch** node
-3. Get **Actor Location**, break the vector (right-click the pin → **Split Struct Pin**)
-4. Check if **Location Y** > 1000 or < -1000
-5. If true, this is a score event (we'll expand this later)
-
----
 
 ---
 >Prev: [Creating the Ball](/06_Ball/BALL.md) |  Next: [Score System](/08_Score/SCORE.md)
