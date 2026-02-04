@@ -100,4 +100,4 @@ If you run the game, you should see the UI scores update as expected:
 ![img_13.png](img_13.png)
 
 ---
->Prev: [Score System](/08_Score/SCORE.md) |  Next: [Game Over Logic](/10_Over/OVER.md)
+>Prev: [Score System](/08_Score/SCORE.md) |  Next: [Creating a Basic AI](/10_AI/AI.md)

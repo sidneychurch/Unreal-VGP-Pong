@@ -27,7 +27,8 @@ Then we'll look at how we can extend the concepts of the simple game into someth
 * [Collision Detection](/07_Collision/COLLISION.md)
 * [Score System](/08_Score/SCORE.md)
 * [Creating the UI](/09_UI/UI.md)
-* [Game Over Logic](/10_Over/OVER.md)
+* [Creating a Basic AI](/10_AI/AI.md)
+* [Game Over Logic](/11_Over/OVER.md)
 
 
 
