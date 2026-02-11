@@ -35,7 +35,6 @@
 2. From Event Tick:
     - Add **GetActorLocation**
     - Add **CurrentVelocity** variable (getter)
-    - Add **Get World Delta Seconds**
     - Multiply CurrentVelocity by Delta Seconds
     - Add those vectors together with an **Add** node (Vector + Vector)
     - Use **SetActorLocation** with the result
